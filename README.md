@@ -3,7 +3,7 @@
 Ticket to Ride is a turn-based board game based on a graph theory. Players operate on undirected
 graph of cities and train connections. On each turn, player buys ability
 to color one edge of the graph with his color. Each player has number of tickets - each ticket
-consists of two cities the playes has to connect. The goal is to create a subset graph (defined by
+consists of two cities the player has to connect. The goal is to create a subset graph (defined by
 player color) which will contain both of the cities from the ticket in a single connected subgraph.
 
 ![Ticket to ride board](ticket_to_ride_board.jpg "Ticket to ride board")
@@ -39,6 +39,6 @@ most changes to get to it (using optimal number of changes). The result should b
 and city name, for example `(8, "Budapest")`
 
 ### Task 5
-Write a function `distance(graph, start_node, end_node) that will return minimal distance between
+Write a function `distance(graph, start_node, end_node)` that will return minimal distance between
 two nodes. For example `distance(g, "London", "Paris") == 3`.
 
