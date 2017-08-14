@@ -14,6 +14,7 @@ repository you'll find two datasets - simple small dataset and real board from T
 Europe. Also visualisations for them are included.
 
 [Sample Data Set](data_sample.txt) | [Visualization](data_sample.png)
+
 [TTR Europe](data_ttr_europe.txt) | [Visualization](data_ttr_europe.png)
 
 Each file consists of lines, in each line there is single edge defined. Each edge consists of start
