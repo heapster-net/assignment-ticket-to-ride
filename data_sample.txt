@@ -1,0 +1,7 @@
+Warsaw Berlin 3
+Warsaw Paris 8
+Warsaw Smolensk 5
+Berlin Paris 2
+Smolensk Moskow 3
+Moskow Kiev 6
+Kiev Bucaresti 7

@@ -1,0 +1,10 @@
+digraph G {
+edge [arrowhead=none]
+Warsaw -> Berlin [label="3"]
+Warsaw -> Paris [label="8"]
+Warsaw -> Smolensk [label="5"]
+Berlin -> Paris [label="2"]
+Smolensk -> Moskow [label="3"]
+Moskow -> Kiev [label="6"]
+Kiev -> Bucaresti [label="7"]
+}
